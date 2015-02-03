@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Project1_Yuanjun Hu</string>
+    <string name="Text">This is a test</string>
+    <string name="Button1">Push Me</string>
+    <string name="Button2">Click Me</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
